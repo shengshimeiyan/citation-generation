@@ -4,3 +4,4 @@
 # except these files
 !.gitignore
 !README.md
+!Citation\ Generation.ipynb
