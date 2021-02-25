@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 # ignore the following directories
 data
 models
 sent2vec
+=======
+# ignore everything
+*
+
+# except these files
+!.gitignore
+!README.md
+!Citation\ Generation.ipynb
+>>>>>>> 02a3306344e83f0aba58e037065b05bad68f2c33
