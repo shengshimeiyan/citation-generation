@@ -1,0 +1,4 @@
+# ignore the following directories
+data
+models
+sent2vec
