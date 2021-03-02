@@ -11,7 +11,7 @@
 - worry about the hyperparameter $k$ later
 
 **next steps**
-- [ ] finalise the dataset
+- [x] finalise the dataset
 - [ ] get summary statisics of finalised dataset
 - [ ] perform 80-20 train-test split
 - [ ] read REFRESH extractive summarisation paper
