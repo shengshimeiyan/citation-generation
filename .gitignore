@@ -2,3 +2,6 @@
 data
 models
 sent2vec
+
+# ignore the following files
+thesis_notes.md
